@@ -9,7 +9,7 @@ Built for small offices and individual systems that need a quick way to find lar
 - No monitoring agent
 
 Landing page:
-https://autopilotit.net/tools/drive-analyzer
+https://autopilotit.net/tools/drive-space-analyzer
 
 Source code will be published in stages.
 Binaries are distributed from the official site only.
